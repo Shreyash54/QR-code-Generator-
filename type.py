@@ -1,0 +1,27 @@
+mystr = "harry is harry"
+mystr2 = "xxxxx"
+print(mystr[::-2])
+print(len(mystr))
+print(mystr2.isalnum())
+print(mystr.isalpha())
+print(mystr.endswith("harry"))
+print(mystr.count("r"))
+print(mystr.capitalize())
+print((mystr.find("rry")))
+print(mystr2.upper())
+print(mystr.replace("is", "are"))
+grocery =["harrpic","nnn", 66]
+print(grocery[2])
+numbers =[2,3,9,6,4]
+print(numbers[2])
+numbers.sort()
+#numbers.reverse()
+print(numbers)
+numbers.append(5)
+print(10*numbers)
+print(numbers.insert(2,55))
+print(numbers)
+numbers.remove(55)
+print(numbers)
+tp=(1,)
+print(tp)
