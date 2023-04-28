@@ -1,0 +1,7 @@
+# QR-code-Generator-
+
+QUICK QR GENERATOR USING PYTHON and QRmodule
+
+AUTHOR - SHREYASH GUPTA
+
+@2021
